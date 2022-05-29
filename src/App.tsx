@@ -30,15 +30,15 @@ const App: React.FC = () => {
     <Providers>
       <Router>
         <TopBar onPresentMobileMenu={handlePresentMobileMenu} />
-        <MobileMenu onDismiss={handleDismissMobileMenu} visible={mobileMenu} />
+        <MobileMenu onDismiss={handleDismissMobileMenu} visible={mobileMenu} /> 
         <Switch>
-          <Route path="ozark/" exact>
+          <Route path="" exact>
             <Home />
           </Route>
-          <Route path="ozark/farms">
+          <Route path="farms">
             <Farms />
           </Route>
-          <Route path="/staking">
+          <Route path="staking">
             <Stake />
           </Route>
         </Switch>
