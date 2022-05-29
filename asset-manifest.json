@@ -2,9 +2,9 @@
   "files": {
     "static/js/0.df994416.chunk.js": "/ozark/static/js/0.df994416.chunk.js",
     "main.css": "/ozark/static/css/main.b2eadc70.chunk.css",
-    "main.js": "/ozark/static/js/main.600d3106.chunk.js",
+    "main.js": "/ozark/static/js/main.4bdb2554.chunk.js",
     "runtime-main.js": "/ozark/static/js/runtime-main.9bfbcbd0.js",
-    "static/js/3.6185f863.chunk.js": "/ozark/static/js/3.6185f863.chunk.js",
+    "static/js/3.a6652ebf.chunk.js": "/ozark/static/js/3.a6652ebf.chunk.js",
     "static/js/4.16ba6410.chunk.js": "/ozark/static/js/4.16ba6410.chunk.js",
     "static/js/5.7b76d423.chunk.js": "/ozark/static/js/5.7b76d423.chunk.js",
     "static/js/6.58abfc91.chunk.js": "/ozark/static/js/6.58abfc91.chunk.js",
@@ -14,9 +14,9 @@
     "static/js/10.7f80a051.chunk.js": "/ozark/static/js/10.7f80a051.chunk.js",
     "static/js/11.66a2f4d3.chunk.js": "/ozark/static/js/11.66a2f4d3.chunk.js",
     "index.html": "/ozark/index.html",
-    "precache-manifest.2eb7afde0fc872dceea0ebfd3643b0eb.js": "/ozark/precache-manifest.2eb7afde0fc872dceea0ebfd3643b0eb.js",
+    "precache-manifest.8313c966e6e14d7821dcfd95efb250b0.js": "/ozark/precache-manifest.8313c966e6e14d7821dcfd95efb250b0.js",
     "service-worker.js": "/ozark/service-worker.js",
-    "static/js/3.6185f863.chunk.js.LICENSE.txt": "/ozark/static/js/3.6185f863.chunk.js.LICENSE.txt",
+    "static/js/3.a6652ebf.chunk.js.LICENSE.txt": "/ozark/static/js/3.a6652ebf.chunk.js.LICENSE.txt",
     "static/js/5.7b76d423.chunk.js.LICENSE.txt": "/ozark/static/js/5.7b76d423.chunk.js.LICENSE.txt",
     "static/js/6.58abfc91.chunk.js.LICENSE.txt": "/ozark/static/js/6.58abfc91.chunk.js.LICENSE.txt",
     "static/js/7.c073a5e6.chunk.js.LICENSE.txt": "/ozark/static/js/7.c073a5e6.chunk.js.LICENSE.txt",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9bfbcbd0.js",
-    "static/js/3.6185f863.chunk.js",
+    "static/js/3.a6652ebf.chunk.js",
     "static/css/main.b2eadc70.chunk.css",
-    "static/js/main.600d3106.chunk.js"
+    "static/js/main.4bdb2554.chunk.js"
   ]
 }
