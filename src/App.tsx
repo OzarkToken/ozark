@@ -32,10 +32,10 @@ const App: React.FC = () => {
         <TopBar onPresentMobileMenu={handlePresentMobileMenu} />
         <MobileMenu onDismiss={handleDismissMobileMenu} visible={mobileMenu} />
         <Switch>
-          <Route path="/" exact>
+          <Route path="ozark/" exact>
             <Home />
           </Route>
-          <Route path="/farms">
+          <Route path="ozark/farms">
             <Farms />
           </Route>
           <Route path="/staking">
