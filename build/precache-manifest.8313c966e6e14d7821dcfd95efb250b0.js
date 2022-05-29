@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d0d3d7b82c5080f7e41b4552b07de7f",
+    "revision": "ef2b7e451c8f0610a573370b79a2835d",
     "url": "/ozark/index.html"
   },
   {
-    "revision": "f2a53785f86d7623c9ed",
+    "revision": "7b737c4fd07b2256fd25",
     "url": "/ozark/static/css/main.b2eadc70.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ozark/static/js/11.66a2f4d3.chunk.js"
   },
   {
-    "revision": "67b83782375f30549e7e",
-    "url": "/ozark/static/js/3.6185f863.chunk.js"
+    "revision": "48454510388122d9ee20",
+    "url": "/ozark/static/js/3.a6652ebf.chunk.js"
   },
   {
     "revision": "15723851b11509ef1b9a8dbd2a0ef589",
-    "url": "/ozark/static/js/3.6185f863.chunk.js.LICENSE.txt"
+    "url": "/ozark/static/js/3.a6652ebf.chunk.js.LICENSE.txt"
   },
   {
     "revision": "3c09b26b8c5edc06e305",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ozark/static/js/9.d49cab15.chunk.js"
   },
   {
-    "revision": "f2a53785f86d7623c9ed",
-    "url": "/ozark/static/js/main.600d3106.chunk.js"
+    "revision": "7b737c4fd07b2256fd25",
+    "url": "/ozark/static/js/main.4bdb2554.chunk.js"
   },
   {
     "revision": "260f563d46f3c0108168",

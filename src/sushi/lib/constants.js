@@ -76,11 +76,11 @@ export const supportedPools = [
     pid: 0,
     lpAddresses: {
       1: '0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852',
-      4: '0x9Bbb2A19D26504B34a6559695B7EB8e456b6ed2D',
+      4: '0x1e51b20BAd30A04572904363a378daA2259D3Cd1',
     },
     tokenAddresses: {
       1: '0xdac17f958d2ee523a2206206994597c13d831ec7',
-      4: '0x9Bbb2A19D26504B34a6559695B7EB8e456b6ed2D',
+      4: '0x1e51b20BAd30A04572904363a378daA2259D3Cd1',
     },
     name: 'Tether',
     symbol: 'USDT',
