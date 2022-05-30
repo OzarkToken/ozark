@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import chef from '../../assets/img/ozark2.png'
+import chef from '../../assets/img/farm.png'
 import Button from '../../components/Button'
 import Container from '../../components/Container'
 import Page from '../../components/Page'
@@ -12,9 +12,9 @@ const Home: React.FC = () => {
   return (
     <Page>
       <PageHeader
-        icon={<img src={chef} height={130} />}
+        icon={<img src={chef} height={125} />}
         //title="MasterChef is Ready"
-        subtitle="Stake USDT(₮) token to claim your very own OZ̴ARK Token!"
+        subtitle="Stake USDT(₮) token to claim your very own OZARK Token!"
       />
 
       <Container>
@@ -22,7 +22,7 @@ const Home: React.FC = () => {
       </Container>
       <Spacer size="lg" />
       <StyledInfo>
-        🏆 <b>Pro Tip</b>: OZ̴ARK pool yields TWICE more token
+        🏆 <b>Pro Tip</b>: OZARK pool yields TWICE more token
         rewards per block.
       </StyledInfo>
       <Spacer size="lg" />
@@ -39,7 +39,7 @@ const Home: React.FC = () => {
 
 const StyledInfo = styled.h3`
   color: ${(props) => props.theme.color.grey[500]};
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   margin: 0;
   padding: 0;

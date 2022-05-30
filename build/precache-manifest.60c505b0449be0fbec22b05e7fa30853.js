@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73d353638489d955bb062f8ac52b061b",
+    "revision": "19bdf515584520fa32906d9eeb78c8dc",
     "url": "/ozark/index.html"
   },
   {
-    "revision": "44a5e76f5dfdf467edf1",
+    "revision": "0203b84c6025cb727ae3",
     "url": "/ozark/static/css/main.b2eadc70.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ozark/static/js/9.d49cab15.chunk.js"
   },
   {
-    "revision": "44a5e76f5dfdf467edf1",
-    "url": "/ozark/static/js/main.aef59080.chunk.js"
+    "revision": "0203b84c6025cb727ae3",
+    "url": "/ozark/static/js/main.95207c90.chunk.js"
   },
   {
     "revision": "260f563d46f3c0108168",
