@@ -40,16 +40,16 @@ export const addressMap = {
 
 export const contractAddresses = {
   sushi: {
-    1: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
-    4: '0xFe2aA1828FB6F1d96815E402247c4C80938D779a'
+    1: '0xC13e1B6e31df177e7186acEd81Ec64ecC0a54e48',
+    56: '0x21404b8cdfE199051A937a65b2c62C146490beA0'
   },
   masterChef: {
-    1: '0xc2edad668740f1aa35e4d8f227fb8e17dca888cd',
-    4: '0x7587cb8f4a553e85e34116D604BfE8D48D5e33FF'
+    1: '0x731B427a56494657c10195f7442D019251247216',
+    56: '0x4f4A7Eae3aDa82C98eC655254061687197459c37'
   },
   weth: {
     1: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
-    4: '0xc778417E063141139Fce010982780140Aa0cD5Ab'
+    56: '0xc778417E063141139Fce010982780140Aa0cD5Ab'
   },
 }
 
@@ -76,13 +76,13 @@ export const supportedPools = [
     pid: 0,
     lpAddresses: {
       1: '0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852',
-      4: '0x1e51b20BAd30A04572904363a378daA2259D3Cd1',
+      56: '0x55d398326f99059fF775485246999027B3197955',
     },
     tokenAddresses: {
-      1: '0xdac17f958d2ee523a2206206994597c13d831ec7',
-      4: '0x1e51b20BAd30A04572904363a378daA2259D3Cd1',
+      1: '0x55d398326f99059fF775485246999027B3197955',
+      56: '0x55d398326f99059fF775485246999027B3197955',
     },
-    name: 'Tether',
+    name: 'Tether USD(BEP-20)',
     symbol: 'USDT',
     tokenSymbol: 'USDT',
     icon: '₮',

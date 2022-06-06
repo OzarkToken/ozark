@@ -16,7 +16,7 @@ const TxButton: React.FC<TxButtonProps> = () => {
           <Button
             size="sm"
             text={`${pendingTransactions.length} Transaction(s)`}
-            href={`https://etherscan.io/address/${account}`}
+            href={`https://www.bscscan.com/address/${account}`}
           />
         </StyledTxButton>
       ) : null}

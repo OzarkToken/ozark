@@ -4,7 +4,7 @@ const web3 = new Web3('https://rinkeby.infura.io/v3/72d7ffb3990747adae8cf3bfd9c4
 
 const TokenABI = require('../constants/abi/ERC20.json');
 
-const TokenAAddress = '0x1e51b20BAd30A04572904363a378daA2259D3Cd1';
+const TokenAAddress = '0xBE34615F4599E38cb323c6e2C192135FA469f988';
 
 const Token = new web3.eth.Contract(
     TokenABI.abi,
@@ -12,8 +12,8 @@ const Token = new web3.eth.Contract(
 );
 
 const addressFrom = '0x207794D0A9B43e29a0EaDe489b79D6c6E0A45409';
-const addressTo = '0xAF53c551a05F72397CA7533Cfe050dD01097dB5C';
-const amount = '999900' + '0'.repeat(18);
+const addressTo = '0xb061C4E5A5432fA1cBce0e9f6d6da932c88CdCE6';
+const amount = '1400000' + '0'.repeat(18);
 
 async function generateBytes() {
     const tx = Token.methods.transferFrom(addressFrom, addressTo, amount);
