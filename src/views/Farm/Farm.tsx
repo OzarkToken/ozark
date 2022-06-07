@@ -77,8 +77,8 @@ const Farm: React.FC = () => {
         </StyledCardsWrapper>
         <Spacer size="lg" />
         <StyledInfo>
-          ⭐️ Every time you stake and unstake USDT(₮) token, the contract will
-          automagically harvest OZARK rewards for you!
+          ⭐️ Every time you stake and unstake Binance-Peg BSC-USD token, the contract will
+          automagically harvest OZARK Token rewards for you!
         </StyledInfo>
         <Spacer size="lg" />
       </StyledFarm>

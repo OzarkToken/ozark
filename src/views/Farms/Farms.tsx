@@ -26,9 +26,9 @@ const Farms: React.FC = () => {
           <>
             <Route exact path={path}>
               <PageHeader
-                icon={<img src={chef} height="30" />}
-                subtitle="Earn OZARK tokens by staking USDT(₮) Tokens."
-                //title="Select Your Favorite Dishes"
+                icon={<img src={chef} height="60" />}
+                subtitle="Earn OZARK tokens by staking Binance-Peg BSC-USD Tokens."
+                title="Tether (USDT) - BEP20 BNB"
               />
               <FarmCards />
             </Route>

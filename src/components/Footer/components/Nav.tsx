@@ -6,9 +6,9 @@ const Nav: React.FC = () => {
     <StyledNav>
       <StyledLink
         target="_blank"
-        href="https://www.bscscan.com/address/0xDE56877957ed2575A07Ce6BE39FDcb94aCdAE717"
+        href="https://www.bscscan.com/token/0x21404b8cdfE199051A937a65b2c62C146490beA0"
       >
-        OZARK($OZRK) Contract
+        $OZRK Contract
       </StyledLink>
       {/*<StyledLink
         target="_blank"

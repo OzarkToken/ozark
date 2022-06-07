@@ -13,8 +13,9 @@ const Home: React.FC = () => {
     <Page>
       <PageHeader
         icon={<img src={chef} height={125} />}
-        //title="MasterChef is Ready"
-        subtitle="Stake USDT(₮) token to claim your very own OZARK Token!"
+        title=" "
+        
+        subtitle="Stake Tether(USDT) BEP-20 token to claim your OZARK Token!"
       />
 
       <Container>
@@ -22,8 +23,7 @@ const Home: React.FC = () => {
       </Container>
       <Spacer size="lg" />
       <StyledInfo>
-        🏆 <b>Pro Tip</b>: OZARK pool yields TWICE more token
-        rewards per block.
+        🏆 <b>Pro Tip</b>: <b>If you hold Tether(USDT) token for a week – you’ll get a 5% USDT reward.</b>
       </StyledInfo>
       <Spacer size="lg" />
       <div

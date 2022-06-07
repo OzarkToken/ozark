@@ -26,7 +26,7 @@ const Harvest: React.FC<HarvestProps> = ({ pid }) => {
           <StyledCardHeader>
             <CardIcon>💰</CardIcon>
             <Value value={getBalanceNumber(earnings)} />
-            <Label text="OZARK Earned" />
+            <Label text="OZARK Tokens Earned" />
           </StyledCardHeader>
           <StyledCardActions>
             <Button
